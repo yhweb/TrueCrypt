@@ -1,3 +1,7 @@
+dist 包含安装二进制文件
+
+
+
 This archive contains the source code of TrueCrypt 7.1a.
 
 
